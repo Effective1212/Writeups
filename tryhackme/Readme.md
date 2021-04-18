@@ -1,7 +1,7 @@
 
 TryHackme Writeups
 
-Donw Writeups List 
+Done Writeups List 
 
 - Attacktive Director
 - Blog
